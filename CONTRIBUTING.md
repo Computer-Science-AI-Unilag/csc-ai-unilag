@@ -1,4 +1,4 @@
-# Contributing to CSE AI UNILAG
+# Contributing to CSC AI UNILAG
 
 Thank you for improving this archive. Contributions are reviewed before publication; submitting a pull request does not make a resource an official course document.
 

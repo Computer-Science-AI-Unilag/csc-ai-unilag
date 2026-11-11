@@ -8,6 +8,6 @@ Add a recording only after publication and appropriate permission. Use external 
 
 ## Recommended YouTube title
 
-`CSE AI UNILAG | Artificial Intelligence | Week 01 | Introduction to AI | 2026/2027`
+`CSC AI UNILAG | Artificial Intelligence | Week 01 | Introduction to AI | 2026/2027`
 
-Suggested playlists: `CSE AI UNILAG — 2026/2027`, `Artificial Intelligence — 2026/2027`, and `AI Foundations — 2026/2027`.
+Suggested playlists: `CSC AI UNILAG — 2026/2027`, `Artificial Intelligence — 2026/2027`, and `AI Foundations — 2026/2027`.

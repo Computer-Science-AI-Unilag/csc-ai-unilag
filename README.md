@@ -1,8 +1,8 @@
-# CSE AI UNILAG
+# CSC AI UNILAG
 
 ## Artificial Intelligence Learning, Research & Open Educational Resources
 
-CSE AI UNILAG is a lecturer-led, community-maintained learning archive for Artificial Intelligence education at the University of Lagos, Nigeria. It preserves approved course documentation, practical resources, recordings, and student-project references across academic sessions. It is not presented as an official University of Lagos programme or endorsement.
+CSC AI UNILAG is a lecturer-led, community-maintained learning archive for Artificial Intelligence education at the University of Lagos, Nigeria. It preserves approved course documentation, practical resources, recordings, and student-project references across academic sessions. It is not presented as an official University of Lagos programme or endorsement.
 
 ## Vision and mission
 

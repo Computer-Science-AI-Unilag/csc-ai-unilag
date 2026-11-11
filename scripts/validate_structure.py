@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the Markdown-first CSE AI UNILAG archive without dependencies."""
+"""Validate the Markdown-first CSC AI UNILAG archive without dependencies."""
 
 from __future__ import annotations
 
