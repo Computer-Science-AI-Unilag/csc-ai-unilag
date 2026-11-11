@@ -1,0 +1,30 @@
+name: Documentation issue
+description: Report inaccurate, missing, unclear, or broken documentation
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File or URL
+      placeholder: "years/2026-2027/..."
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs correction?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source or suggested correction
+      description: Do not include private information.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I understand that a maintainer must verify course information before publication.
+          required: true

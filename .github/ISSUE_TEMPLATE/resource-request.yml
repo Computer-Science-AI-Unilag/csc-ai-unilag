@@ -1,0 +1,35 @@
+name: Resource request
+description: Request a learning resource or improvement to an existing resource
+title: "[Resource]: "
+labels: ["resource"]
+body:
+  - type: markdown
+    attributes:
+      value: "Please avoid sharing private student data, credentials, or copyrighted material without permission."
+  - type: input
+    id: session
+    attributes:
+      label: Academic session
+      placeholder: "2026/2027"
+    validations:
+      required: true
+  - type: input
+    id: course
+    attributes:
+      label: Course or module
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: Resource requested
+      description: Explain the learning need and any safe source or licence information.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I have not included private information or unapproved material.
+          required: true
