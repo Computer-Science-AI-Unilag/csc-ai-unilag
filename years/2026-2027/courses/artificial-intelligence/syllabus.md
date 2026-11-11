@@ -1,4 +1,4 @@
-# Artificial Intelligence — Syllabus Guide
+# Artificial Intelligence: Syllabus Guide
 
 **Course code:** Pending institutional verification
 **Status:** Planning guide; not a substitute for an approved departmental outline

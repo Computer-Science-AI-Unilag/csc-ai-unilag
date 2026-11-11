@@ -1,6 +1,6 @@
-# Week 01 Notes — Introduction to Artificial Intelligence
+# Week 01 Notes: Introduction to Artificial Intelligence
 
-**Status:** SAMPLE MATERIAL — pending lecturer review
+**Status:** SAMPLE MATERIAL: pending lecturer review
 
 ## What does Artificial Intelligence mean?
 

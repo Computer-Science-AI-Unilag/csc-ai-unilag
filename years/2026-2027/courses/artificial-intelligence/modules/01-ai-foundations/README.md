@@ -1,4 +1,4 @@
-# Module 01 — AI Foundations
+# Module 01: AI Foundations
 
 **Course:** [Artificial Intelligence](../../README.md)
 **Academic session:** 2026/2027

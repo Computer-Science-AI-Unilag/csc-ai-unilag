@@ -1,11 +1,11 @@
-# Week 02 — To Be Confirmed
+# Week 02: To Be Confirmed
 
 **Academic session:** 2026/2027
 **Course:** Artificial Intelligence (course code pending verification)
 **Module:** AI Foundations
 **Lecturer:** To be confirmed
 **Date:** To be confirmed
-**Status:** Planned — awaiting lecturer documentation
+**Status:** Planned: awaiting lecturer documentation
 
 ## Overview
 

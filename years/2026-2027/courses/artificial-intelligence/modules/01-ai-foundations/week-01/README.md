@@ -1,11 +1,11 @@
-# Week 01 — Introduction to Artificial Intelligence
+# Week 01: Introduction to Artificial Intelligence
 
 **Academic session:** 2026/2027
 **Course:** Artificial Intelligence (course code pending verification)
 **Module:** AI Foundations
 **Lecturer:** To be confirmed
 **Date:** To be confirmed
-**Status:** SAMPLE MATERIAL — pending lecturer review and approval
+**Status:** SAMPLE MATERIAL: pending lecturer review and approval
 
 ## Overview
 

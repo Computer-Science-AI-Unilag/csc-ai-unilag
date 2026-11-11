@@ -1,4 +1,4 @@
-# Week XX — Lecture Title
+# Week XX: Lecture Title
 
 **Academic session:** YYYY/YYYY
 **Course:** Course title
