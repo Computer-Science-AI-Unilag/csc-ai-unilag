@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Do not open a public issue for an exposed credential, private-data disclosure, or suspected security problem. Use GitHub private reporting when available, or contact a maintainer privately through GitHub. Include a safe description, affected file or workflow, and reproduction steps—never active secrets.
+Do not open a public issue for an exposed credential, private-data disclosure, or suspected security problem. Use GitHub private reporting when available, or contact a maintainer privately through GitHub. Include a safe description, affected file or workflow, and reproduction steps: never active secrets.
 
 ## Scope
 

@@ -1,4 +1,4 @@
-# Week XX Assignment — Title
+# Week XX Assignment: Title
 
 **Academic session:** YYYY/YYYY
 **Course:** Course title

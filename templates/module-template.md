@@ -1,4 +1,4 @@
-# Module NN — Module Title
+# Module NN: Module Title
 
 **Course:** [Course title](../../README.md)
 **Academic session:** YYYY/YYYY

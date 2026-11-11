@@ -1,4 +1,4 @@
-# Week 01 Sample Assignment — AI Around Us
+# Week 01 Sample Assignment: AI Around Us
 
 **Status:** Sample educational exercise, pending lecturer adoption.
 **Submission details:** To be confirmed by the lecturer.
