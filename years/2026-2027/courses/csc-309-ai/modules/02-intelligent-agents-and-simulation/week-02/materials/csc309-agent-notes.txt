@@ -1,0 +1,55 @@
+WHAT IS AN AGENT?
+
+An agent is an entity that observes its environment through sensors and acts on it through actuators. Its environment is everything outside the agent that is relevant to its task, including other agents.
+
+PERCEPTION, ACTION AND FEEDBACK
+
+1. Perception — The agent gathers information through its sensors.
+2. Action — The agent uses a policy to choose an action. Its actuators carry out that action.
+3. Feedback — After acting, the agent receives new information from the environment. For example, it may observe that an obstacle is now farther away.
+
+A goal describes what the agent wants to achieve. A policy describes how the agent chooses an action using the information available to it.
+
+POLICY NOTATION
+
+aₖ = π(Zₖ)
+
+• k is the current time step.
+• Zₖ is the information available to the agent at that step.
+• π (pi) represents the policy. It may stay fixed or change through learning.
+• aₖ is the action selected by the policy.
+
+PEAS FRAMEWORK
+
+PEAS describes an agent’s task and how it interacts with its environment.
+
+P — Performance measure: How is success measured?
+E — Environment: Where does the agent operate, and what does it interact with?
+A — Actuators: How does the agent carry out its actions?
+S — Sensors: How does the agent observe its environment?
+
+CASE STUDY — PARTICLES IN MOTION
+
+Consider particles moving inside a simulated box. Each particle acts as an agent whose goal is to keep moving while avoiding collisions.
+
+• Performance measure — Number of collisions during a fixed period of movement. Fewer collisions indicate better performance.
+• Environment — The box, its walls and the other moving particles.
+• Actuators — Controls that change a particle’s speed or direction.
+• Sensors — Readings of the particle’s speed and the distance and direction to nearby walls or particles.
+
+Two possible policies are:
+
+1. Random policy — Choose a new direction at random at each time step.
+2. Observation-based policy — Continue straight while the path is clear. If a wall or another particle gets too close ahead, turn away.
+
+In the second policy, detecting a nearby particle is perception. Turning away is the action. The rule connecting the observation to the action is the policy.
+
+SIMULATION MODEL
+
+A simulation model is a simplified representation of a system that uses rules to describe how the system changes over time.
+
+In the particle example, the model stores each particle’s position and velocity. At each time step, it applies the selected actions, updates the positions and checks for collisions. Running both policies under the same starting conditions lets us compare how well they avoid collisions.
+
+EXAMPLE — A TOOL-CALLING AI AGENT
+
+For an AI assistant, the available information may include system instructions, the user’s request and previous tool results. If the user asks it to set a reminder, the assistant selects a tool and supplies the reminder text and time. The tool acts as an actuator by creating the reminder, and the result tells the assistant whether the action succeeded.

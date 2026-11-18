@@ -1,12 +1,12 @@
 # Academic Session 2026/2027
 
-This archive preserves the 2026/2027 Artificial Intelligence teaching record as resources are approved. It begins with a sample AI Foundations lesson; it does not claim that the schedule or syllabus is formally approved.
+This archive preserves the 2026/2027 CSC 309 teaching record, including delivered lecture materials, practical work, and published recordings.
 
 ## Available AI courses
 
 | Course | Module | Resources | Status |
 | --- | --- | --- | --- |
-| [Artificial Intelligence](courses/artificial-intelligence/README.md) | [AI Foundations](courses/artificial-intelligence/modules/01-ai-foundations/README.md) | [Week 01 sample](courses/artificial-intelligence/modules/01-ai-foundations/week-01/README.md) | Sample material pending lecturer review |
+| [CSC 309: Artificial Intelligence](courses/csc-309-ai/README.md) | [Foundations and Philosophy of AI](courses/csc-309-ai/modules/01-foundations-and-philosophy/README.md) | [Week 01 lecture and practical](courses/csc-309-ai/modules/01-foundations-and-philosophy/week-01/README.md) | Materials archived |
 
 ## Instructor information
 
@@ -18,14 +18,14 @@ The archive supports reusable AI learning materials, practical exploration, resp
 
 ## Course directory
 
-- [Artificial Intelligence](courses/artificial-intelligence/README.md)
+- [CSC 309: Artificial Intelligence](courses/csc-309-ai/README.md)
 - [Curriculum index](curriculum.md)
 - [Recording index](recordings.md)
 - [Student projects](projects.md)
 
 ## Lecture schedule and practical resources
 
-The teaching schedule awaits lecturer documentation. Week 01 is illustrative; [Week 02](courses/artificial-intelligence/modules/01-ai-foundations/week-02/README.md) is a planned template. Practical resources belong with each weekly lesson.
+The documented sessions are [Week 01](courses/csc-309-ai/modules/01-foundations-and-philosophy/week-01/README.md), which includes a face-recognition practical, and [Week 02](courses/csc-309-ai/modules/02-intelligent-agents-and-simulation/week-02/README.md), which includes its published recording. Practical resources remain beside the relevant week.
 
 ## Contributions and acknowledgements
 

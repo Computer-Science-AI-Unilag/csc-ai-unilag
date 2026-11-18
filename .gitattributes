@@ -1,0 +1,3 @@
+# Preserve supplied teaching artifacts as binary files in diffs and merges.
+*.pdf binary
+*.pptx binary

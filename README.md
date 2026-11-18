@@ -22,19 +22,19 @@ The initial archive is for **[2026/2027](years/2026-2027/README.md)**. New sessi
 
 ## Current course
 
-The first course is **[Artificial Intelligence](years/2026-2027/courses/artificial-intelligence/README.md)**. Its official University of Lagos course code is **pending verification**; this archive does not assert a code until an authoritative outline is available.
+The first documented course is **[CSC 309: Artificial Intelligence](years/2026-2027/courses/csc-309-ai/README.md)**. Its course materials and weekly archive are organised by delivered module and practical session.
 
 ## Learning path
 
 1. Open the [2026/2027 session](years/2026-2027/README.md).
-2. Follow the [Artificial Intelligence course](years/2026-2027/courses/artificial-intelligence/README.md).
-3. Start the [AI Foundations module](years/2026-2027/courses/artificial-intelligence/modules/01-ai-foundations/README.md).
-4. Read the [sample Week 01 lesson](years/2026-2027/courses/artificial-intelligence/modules/01-ai-foundations/week-01/README.md) and its [assignment](years/2026-2027/courses/artificial-intelligence/modules/01-ai-foundations/week-01/assignment.md).
+2. Follow the [CSC 309 course](years/2026-2027/courses/csc-309-ai/README.md).
+3. Start with [Foundations and Philosophy of AI](years/2026-2027/courses/csc-309-ai/modules/01-foundations-and-philosophy/README.md).
+4. Open the [Week 01 lecture and practical](years/2026-2027/courses/csc-309-ai/modules/01-foundations-and-philosophy/week-01/README.md).
 5. Use the shared [student resources](resources/README.md).
 
 ## Lectures, practical sessions, and recordings
 
-Week 01 is **sample material pending lecturer review**. The [recording index](years/2026-2027/recordings.md) lists published links only; it does not invent recordings or dates.
+The [recording index](years/2026-2027/recordings.md) links published sessions only. Week 02 includes its supplied YouTube recording; no unsupplied recording or date is inferred.
 
 ## Student projects
 
