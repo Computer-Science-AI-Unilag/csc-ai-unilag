@@ -32,6 +32,6 @@ Open the [practical guide](practical/README.md) before running the notebook.
 ## Source references
 
 - [Week 01 lecture source](https://drive.google.com/file/d/1GwLiTIjOFWSNibDYfU0VHvqrCl9_OPSk/view)
-- [Foundations and Philosophy source](https://drive.google.com/file/d/1upCjeo11cT9AcZbKYR55Cb6uFqbOEuh3/view)
-- [Editable lecture deck source](https://docs.google.com/presentation/d/15Weu23Rx0QIwuHP1YjILe69PTpmAd68O/edit)
+- [Bunmi Akinremi PDF](https://drive.google.com/file/d/1upCjeo11cT9AcZbKYR55Cb6uFqbOEuh3/view)
+- [Powerpoint version of Bunmi Akinremi's class](https://docs.google.com/presentation/d/15Weu23Rx0QIwuHP1YjILe69PTpmAd68O/edit)
 - [Face-recognition Colab source](https://colab.research.google.com/drive/1cnhRRauKAsCaxXIGBwWWUY7KDC1IAlC0)
