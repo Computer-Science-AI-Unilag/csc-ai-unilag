@@ -1,10 +1,15 @@
 # Week 02: Intelligent Agents and Agent Architectures
 
-**Academic session:** 2026/2027
+**Academic session:** 2026/2027 
+
 **Course:** CSC 309: Artificial Intelligence
+
 **Module:** Intelligent Agents and Simulation
+
 **Lecturer:** Daniel Alienyi
+
 **Date:** Not published
+
 **Status:** Recording and supporting materials archived
 
 ## Overview
