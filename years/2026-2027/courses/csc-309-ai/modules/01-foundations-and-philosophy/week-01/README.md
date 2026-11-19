@@ -20,8 +20,8 @@ Students should be able to define AI, describe major historical milestones, dist
 | Material | Description |
 | --- | --- |
 | [Week 01: Introduction to AI](materials/week1-introduction-to-ai.pdf) | Dr. Roselyn Isimeto's CSC 309 introduction lecture |
-| [Foundations and Philosophy of AI](materials/foundations-and-philosophy-of-ai.pdf) | Bunmi Akinremi's foundations, rationality, lifecycle, evaluation, and oversight material |
-| [AI Foundations lecture deck](materials/ai-foundations-lecture-bunmi.pptx) | Editable source deck for the foundations lecture |
+| [Foundations and Philosophy of AI](materials/foundations-and-philosophy-of-ai.pdf) | Bunmi Akinremi's (PDF) foundations, rationality, lifecycle, evaluation, and oversight material |
+| [AI Foundations lecture deck](materials/ai-foundations-lecture-bunmi.pptx) | Powerpoint version of Bunmi Akinremi's class |
 
 ## Practical class: Face recognition
 
