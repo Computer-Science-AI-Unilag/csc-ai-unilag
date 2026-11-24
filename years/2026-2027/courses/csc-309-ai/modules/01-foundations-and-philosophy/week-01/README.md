@@ -3,7 +3,8 @@
 **Academic session:** 2026/2027
 **Course:** CSC 309: Artificial Intelligence
 **Module:** Foundations and Philosophy of AI
-**Lecturer:** Dr. Roselyn Isimeto and Bunmi Akinremi
+**Lecturer:** Dr. Roselyn Isimeto
+**Facilitator:** Bunmi Akinremi
 **Date:** Not published
 **Status:** Lecture and practical materials archived
 

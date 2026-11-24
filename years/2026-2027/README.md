@@ -10,7 +10,7 @@ This archive preserves the 2026/2027 CSC 309 teaching record, including delivere
 
 ## Instructor information
 
-No instructor names or roles have been published. Add approved information in [instructors.md](instructors.md).
+CSC 309 is led by **Dr. Roselyn Isimeto**. [Instructor information](instructors.md) records the facilitators credited with the archived sessions.
 
 ## Learning objectives
 
