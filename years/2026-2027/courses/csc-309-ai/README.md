@@ -2,6 +2,7 @@
 
 **Academic session:** [2026/2027](../../README.md)
 **Course code:** CSC 309
+**Lecturer:** Dr. Roselyn Isimeto
 **Status:** Active course archive
 
 ## Overview
